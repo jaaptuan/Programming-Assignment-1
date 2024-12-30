@@ -1,3 +1,4 @@
+# Ranticha Chumjai 672115042
 Program Show
 (-n) Student Number 
 (-f) Student FirstName 
